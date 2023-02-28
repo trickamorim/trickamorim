@@ -1,4 +1,5 @@
 # Hi 👋, I'm Triicky <h1>
-qdqwdqwdqwqdw
-## Título <h2>
-qwdqwdqwdqw
+## Full stack developer & Ricing enjoyer.
+
+Software engineer wannabe with a focus on API/Integrations & passionate about communities.<br>
+Information Systems bachelor student [@UniFTC](https://www.uniftc.edu.br/) 
