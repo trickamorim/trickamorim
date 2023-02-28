@@ -1,7 +1,7 @@
-Hi 👋 My name is Pedro Lopes
+Hi 👋, I'm Triicky
 ============================
 
-Fullstack Developer
+In learning
 -------------
 
 * 🌍  I'm based in Brazil 🇧🇷
