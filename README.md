@@ -1,2 +1,1 @@
-### Hi 👋, I'm Triicky
-# Título <h1>
+# Hi 👋, I'm Triicky <h1>
